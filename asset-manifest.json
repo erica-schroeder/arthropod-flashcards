@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/arthropod-flashcards/static/css/main.f855e6bc.css",
+    "main.js": "/arthropod-flashcards/static/js/main.4e55416a.js",
+    "static/js/453.918a3b06.chunk.js": "/arthropod-flashcards/static/js/453.918a3b06.chunk.js",
+    "static/media/logo.svg": "/arthropod-flashcards/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/arthropod-flashcards/index.html",
+    "main.f855e6bc.css.map": "/arthropod-flashcards/static/css/main.f855e6bc.css.map",
+    "main.4e55416a.js.map": "/arthropod-flashcards/static/js/main.4e55416a.js.map",
+    "453.918a3b06.chunk.js.map": "/arthropod-flashcards/static/js/453.918a3b06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4e55416a.js"
+  ]
+}
