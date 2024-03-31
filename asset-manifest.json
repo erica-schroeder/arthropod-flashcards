@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/arthropod-flashcards/static/css/main.73410965.css",
-    "main.js": "/arthropod-flashcards/static/js/main.04f986e1.js",
-    "static/js/453.918a3b06.chunk.js": "/arthropod-flashcards/static/js/453.918a3b06.chunk.js",
-    "static/media/01608828.jpg": "/arthropod-flashcards/static/media/01608828.d014fc483aa4ea7a88dc.jpg",
+    "main.css": "/arthropod-flashcards/static/css/main.30eb9812.css",
+    "main.js": "/arthropod-flashcards/static/js/main.5f4782be.js",
+    "static/js/453.e13f9e01.chunk.js": "/arthropod-flashcards/static/js/453.e13f9e01.chunk.js",
+    "static/media/diamond-northern-caddisfly.jpg": "/arthropod-flashcards/static/media/diamond-northern-caddisfly.d014fc483aa4ea7a88dc.jpg",
+    "static/media/silver-striped-sedge.jpg": "/arthropod-flashcards/static/media/silver-striped-sedge.54427a3f3cbbf34a0073.jpg",
+    "static/media/shrunken-giant-caddisfly.jpg": "/arthropod-flashcards/static/media/shrunken-giant-caddisfly.c6864ae53f4a04a1aeb2.jpg",
     "index.html": "/arthropod-flashcards/index.html",
-    "main.73410965.css.map": "/arthropod-flashcards/static/css/main.73410965.css.map",
-    "main.04f986e1.js.map": "/arthropod-flashcards/static/js/main.04f986e1.js.map",
-    "453.918a3b06.chunk.js.map": "/arthropod-flashcards/static/js/453.918a3b06.chunk.js.map"
+    "main.30eb9812.css.map": "/arthropod-flashcards/static/css/main.30eb9812.css.map",
+    "main.5f4782be.js.map": "/arthropod-flashcards/static/js/main.5f4782be.js.map",
+    "453.e13f9e01.chunk.js.map": "/arthropod-flashcards/static/js/453.e13f9e01.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73410965.css",
-    "static/js/main.04f986e1.js"
+    "static/css/main.30eb9812.css",
+    "static/js/main.5f4782be.js"
   ]
 }
