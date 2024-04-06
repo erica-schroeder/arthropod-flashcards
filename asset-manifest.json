@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arthropod-flashcards/static/css/main.30eb9812.css",
-    "main.js": "/arthropod-flashcards/static/js/main.664d00b2.js",
+    "main.js": "/arthropod-flashcards/static/js/main.1c490617.js",
     "static/js/453.e13f9e01.chunk.js": "/arthropod-flashcards/static/js/453.e13f9e01.chunk.js",
     "static/media/mosquito.jpg": "/arthropod-flashcards/static/media/mosquito.af65355d6d0da296e521.jpg",
     "static/media/halteres.png": "/arthropod-flashcards/static/media/halteres.602c6545efe7970f8158.png",
@@ -11,19 +11,24 @@
     "static/media/diamond-northern-caddisfly.jpg": "/arthropod-flashcards/static/media/diamond-northern-caddisfly.d014fc483aa4ea7a88dc.jpg",
     "static/media/german-cockroach.jpg": "/arthropod-flashcards/static/media/german-cockroach.9b3eb0176d976ae6b003.jpg",
     "static/media/american-cockroach-2.jpg": "/arthropod-flashcards/static/media/american-cockroach-2.5b95a2ea11138c8d6e71.jpg",
+    "static/media/giant-mayfly-adult.jpg": "/arthropod-flashcards/static/media/giant-mayfly-adult.9580b934307041890c4e.jpg",
     "static/media/mosquito-crane-fly.jpg": "/arthropod-flashcards/static/media/mosquito-crane-fly.d596a9337120605c730a.jpg",
     "static/media/silver-striped-sedge.jpg": "/arthropod-flashcards/static/media/silver-striped-sedge.54427a3f3cbbf34a0073.jpg",
     "static/media/american-cockroach.jpg": "/arthropod-flashcards/static/media/american-cockroach.f74e3e1714a96c1078ae.jpg",
+    "static/media/light-cahill-naiad.jpg": "/arthropod-flashcards/static/media/light-cahill-naiad.3b52f69e8f691bd9875e.jpg",
+    "static/media/giant-mayfly-naiad.jpg": "/arthropod-flashcards/static/media/giant-mayfly-naiad.2d5bf316821074133632.jpg",
+    "static/media/light-cahill-adult.jpg": "/arthropod-flashcards/static/media/light-cahill-adult.edbc9d573d04a71f07e0.jpg",
     "static/media/shrunken-giant-caddisfly.jpg": "/arthropod-flashcards/static/media/shrunken-giant-caddisfly.c6864ae53f4a04a1aeb2.jpg",
+    "static/media/mayfly.jpg": "/arthropod-flashcards/static/media/mayfly.5892f507c944d98e2a0f.jpg",
     "static/media/termite.jpg": "/arthropod-flashcards/static/media/termite.8d9354a14efd285c5229.jpg",
     "static/media/beetle.jpg": "/arthropod-flashcards/static/media/beetle.5dc9b1daeb1da4195dac.jpg",
     "index.html": "/arthropod-flashcards/index.html",
     "main.30eb9812.css.map": "/arthropod-flashcards/static/css/main.30eb9812.css.map",
-    "main.664d00b2.js.map": "/arthropod-flashcards/static/js/main.664d00b2.js.map",
+    "main.1c490617.js.map": "/arthropod-flashcards/static/js/main.1c490617.js.map",
     "453.e13f9e01.chunk.js.map": "/arthropod-flashcards/static/js/453.e13f9e01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30eb9812.css",
-    "static/js/main.664d00b2.js"
+    "static/js/main.1c490617.js"
   ]
 }
