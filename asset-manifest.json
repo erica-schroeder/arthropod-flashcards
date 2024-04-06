@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/arthropod-flashcards/static/css/main.30eb9812.css",
-    "main.js": "/arthropod-flashcards/static/js/main.2ff87e78.js",
+    "main.js": "/arthropod-flashcards/static/js/main.664d00b2.js",
     "static/js/453.e13f9e01.chunk.js": "/arthropod-flashcards/static/js/453.e13f9e01.chunk.js",
     "static/media/mosquito.jpg": "/arthropod-flashcards/static/media/mosquito.af65355d6d0da296e521.jpg",
-    "static/media/crane-fly.jpg": "/arthropod-flashcards/static/media/crane-fly.a5af0c10d636fa314e2a.jpg",
     "static/media/halteres.png": "/arthropod-flashcards/static/media/halteres.602c6545efe7970f8158.png",
     "static/media/elytra.jpg": "/arthropod-flashcards/static/media/elytra.83024084984b41efcb25.jpg",
+    "static/media/crane-fly.jpg": "/arthropod-flashcards/static/media/crane-fly.50d9fb961687ea5b4a18.jpg",
     "static/media/green-bottlefly.jpg": "/arthropod-flashcards/static/media/green-bottlefly.f286c258c38ac160c302.jpg",
     "static/media/diamond-northern-caddisfly.jpg": "/arthropod-flashcards/static/media/diamond-northern-caddisfly.d014fc483aa4ea7a88dc.jpg",
     "static/media/german-cockroach.jpg": "/arthropod-flashcards/static/media/german-cockroach.9b3eb0176d976ae6b003.jpg",
@@ -19,11 +19,11 @@
     "static/media/beetle.jpg": "/arthropod-flashcards/static/media/beetle.5dc9b1daeb1da4195dac.jpg",
     "index.html": "/arthropod-flashcards/index.html",
     "main.30eb9812.css.map": "/arthropod-flashcards/static/css/main.30eb9812.css.map",
-    "main.2ff87e78.js.map": "/arthropod-flashcards/static/js/main.2ff87e78.js.map",
+    "main.664d00b2.js.map": "/arthropod-flashcards/static/js/main.664d00b2.js.map",
     "453.e13f9e01.chunk.js.map": "/arthropod-flashcards/static/js/453.e13f9e01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30eb9812.css",
-    "static/js/main.2ff87e78.js"
+    "static/js/main.664d00b2.js"
   ]
 }
