@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arthropod-flashcards/static/css/main.30eb9812.css",
-    "main.js": "/arthropod-flashcards/static/js/main.1c490617.js",
+    "main.js": "/arthropod-flashcards/static/js/main.89765a6b.js",
     "static/js/453.e13f9e01.chunk.js": "/arthropod-flashcards/static/js/453.e13f9e01.chunk.js",
     "static/media/mosquito.jpg": "/arthropod-flashcards/static/media/mosquito.af65355d6d0da296e521.jpg",
     "static/media/halteres.png": "/arthropod-flashcards/static/media/halteres.602c6545efe7970f8158.png",
@@ -24,11 +24,11 @@
     "static/media/beetle.jpg": "/arthropod-flashcards/static/media/beetle.5dc9b1daeb1da4195dac.jpg",
     "index.html": "/arthropod-flashcards/index.html",
     "main.30eb9812.css.map": "/arthropod-flashcards/static/css/main.30eb9812.css.map",
-    "main.1c490617.js.map": "/arthropod-flashcards/static/js/main.1c490617.js.map",
+    "main.89765a6b.js.map": "/arthropod-flashcards/static/js/main.89765a6b.js.map",
     "453.e13f9e01.chunk.js.map": "/arthropod-flashcards/static/js/453.e13f9e01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30eb9812.css",
-    "static/js/main.1c490617.js"
+    "static/js/main.89765a6b.js"
   ]
 }
