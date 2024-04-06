@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Page Not Found</title>
   <script>
-    window.location.href = '/arthropod-flashcards/';
+    const redirectUrl = '/arthropod-flashcards' + window.location.pathname + window.location.search;
+    window.location.href = redirectUrl;
   </script>
 </head>
 <body>
