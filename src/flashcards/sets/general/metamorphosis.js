@@ -20,19 +20,19 @@ const array = [
         image: "complete-metamorphosis.jpg"
     },
     {
-        question: "For without metamorphosis, young look __________ adults.\n\n(similar to / different from)",
+        question: "For without metamorphosis, immature look __________ adults.\n\n(similar to / different from)",
         answer: "Similar to",
     },
     {
-        question: "For gradual metamorphosis, young look __________ adults.\n\n(similar to / different from)",
+        question: "For gradual metamorphosis, immature look __________ adults.\n\n(similar to / different from)",
         answer: "Similar to",
     },
     {
-        question: "For incomplete metamorphosis, young look __________ adults.\n\n(similar to / different from)",
+        question: "For incomplete metamorphosis, immature look __________ adults.\n\n(similar to / different from)",
         answer: "Different from",
     },
     {
-        question: "For complete metamorphosis, young look __________ adults.\n\n(similar to / different from)",
+        question: "For complete metamorphosis, immature look __________ adults.\n\n(similar to / different from)",
         answer: "Different from",
     },
     {

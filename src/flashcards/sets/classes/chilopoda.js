@@ -29,7 +29,7 @@ const array = [
     },
     {
         question: "What kind of eyes do centipedes have?",
-        answer: "Clusters of simjple eyes",
+        answer: "Clusters of simple eyes",
     },
     {
         question: "What are a centipede's venom fangs called?",

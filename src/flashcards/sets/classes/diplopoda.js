@@ -25,7 +25,7 @@ const array = [
     },
     {
         question: "What kind of eyes do millipedes have?",
-        answer: "Clusters of simjple eyes",
+        answer: "Clusters of simple eyes",
     },
     {
         question: "Are millipedes terrestrial or aquatic?",

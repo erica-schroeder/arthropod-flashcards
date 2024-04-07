@@ -17,7 +17,7 @@ const array = [
     },
     {
         question: "Is branchiopoda terrestrial or aquatic?",
-        answer: "Terrestrial",
+        answer: "Aquatic",
     },
     {
         question: "Which class is this arthropod in?",
