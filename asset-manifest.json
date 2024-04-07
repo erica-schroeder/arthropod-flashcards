@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arthropod-flashcards/static/css/main.30eb9812.css",
-    "main.js": "/arthropod-flashcards/static/js/main.4fb6c38b.js",
+    "main.js": "/arthropod-flashcards/static/js/main.e96054e1.js",
     "static/js/453.e13f9e01.chunk.js": "/arthropod-flashcards/static/js/453.e13f9e01.chunk.js",
     "static/media/mosquito.jpg": "/arthropod-flashcards/static/media/mosquito.af65355d6d0da296e521.jpg",
     "static/media/centipede.jpg": "/arthropod-flashcards/static/media/centipede.9874f04ed1efca06949c.jpg",
@@ -16,6 +16,7 @@
     "static/media/forcipules.jpg": "/arthropod-flashcards/static/media/forcipules.e4a7356e16576df8f5e4.jpg",
     "static/media/tadpole-shrimp.jpg": "/arthropod-flashcards/static/media/tadpole-shrimp.e0b4d50ec1e14a55f92a.jpg",
     "static/media/fairy-shrimp.jpg": "/arthropod-flashcards/static/media/fairy-shrimp.ff67837f616ed70adeda.jpg",
+    "static/media/eastern-harvestman.jpg": "/arthropod-flashcards/static/media/eastern-harvestman.fb1b3f3a1f575b6bc164.jpg",
     "static/media/gradual-metamorphosis.jpg": "/arthropod-flashcards/static/media/gradual-metamorphosis.290a7087da38010a95db.jpg",
     "static/media/pillbug.jpg": "/arthropod-flashcards/static/media/pillbug.81411ff0d9c0ec91dc79.jpg",
     "static/media/complete-metamorphosis.jpg": "/arthropod-flashcards/static/media/complete-metamorphosis.842bd16094ff50cc827e.jpg",
@@ -25,7 +26,6 @@
     "static/media/diamond-northern-caddisfly.jpg": "/arthropod-flashcards/static/media/diamond-northern-caddisfly.d014fc483aa4ea7a88dc.jpg",
     "static/media/scorpion.jpg": "/arthropod-flashcards/static/media/scorpion.f487b7abae66d12f0768.jpg",
     "static/media/termite-winged.jpg": "/arthropod-flashcards/static/media/termite-winged.58da368d2a608d98e444.jpg",
-    "static/media/eastern-harvestman.jpg": "/arthropod-flashcards/static/media/eastern-harvestman.a4cb7b483f1ce86fc94c.jpg",
     "static/media/german-cockroach.jpg": "/arthropod-flashcards/static/media/german-cockroach.9b3eb0176d976ae6b003.jpg",
     "static/media/abdomen.jpg": "/arthropod-flashcards/static/media/abdomen.7f3d82b5af988c89e84a.jpg",
     "static/media/head.jpg": "/arthropod-flashcards/static/media/head.3ac20590562f7e66d670.jpg",
@@ -50,11 +50,11 @@
     "static/media/beetle.jpg": "/arthropod-flashcards/static/media/beetle.5dc9b1daeb1da4195dac.jpg",
     "index.html": "/arthropod-flashcards/index.html",
     "main.30eb9812.css.map": "/arthropod-flashcards/static/css/main.30eb9812.css.map",
-    "main.4fb6c38b.js.map": "/arthropod-flashcards/static/js/main.4fb6c38b.js.map",
+    "main.e96054e1.js.map": "/arthropod-flashcards/static/js/main.e96054e1.js.map",
     "453.e13f9e01.chunk.js.map": "/arthropod-flashcards/static/js/453.e13f9e01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30eb9812.css",
-    "static/js/main.4fb6c38b.js"
+    "static/js/main.e96054e1.js"
   ]
 }
