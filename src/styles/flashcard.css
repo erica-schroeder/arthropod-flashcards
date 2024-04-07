@@ -1,0 +1,25 @@
+.flashcard {
+  width: 330px;
+  height: 500px;
+  transform-style: preserve-3d;
+  transition: transform 0.5s;
+}
+
+.flashcard.flipped {
+  transform: rotateY(180deg);
+}
+
+.flashcard-inner {
+  min-width: 330px;
+  min-height: 500px;
+  transform-style: preserve-3d;
+}
+
+.flashcard-front,
+.flashcard-back {
+  backface-visibility: hidden;
+}
+
+.flashcard-back {
+  transform: rotateY(180deg);
+}
