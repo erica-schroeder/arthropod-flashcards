@@ -1,7 +1,7 @@
 const array = [
     {
-        question: "What insects are in order diptera?",
-        answer: "Flies\nCrane flies\nMosquitos\nMidges",
+        question: "Which order contains these insects?\n\nFlies\nCrane flies\nMosquitos\nMidges",
+        answer: "Diptera",
     },
     {
         question: "What does diptera mean?",
@@ -40,6 +40,21 @@ const array = [
         answer: "Crane fly",
         image: "crane-fly.jpg"
     },
+    {
+        question: "What type of mouthparts do mosquitos have?",
+        answer: "Piercing",
+        image: "mosquito-mouthparts.jpg"
+    },
+    {
+        question: "What type of mouthparts do flies have?",
+        answer: "Sponging",
+        image: "fly-mouthparts.png"
+    },
+    {
+        question: "What type of mouthparts do crane flies have?",
+        answer: "None!",
+    },
+
 ];
 
 module.exports = array;

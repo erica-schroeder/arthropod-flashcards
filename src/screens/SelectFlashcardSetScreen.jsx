@@ -12,6 +12,10 @@ const groups = [
             { label: "Coleoptera", name: "coleoptera" },
             { label: "Diptera", name: "diptera" },
             { label: "Ephemeroptera", name: "ephemeroptera" },
+            { label: "Hemiptera", name: "hemiptera" },
+            { label: "Hymenoptera", name: "hymenoptera" },
+            { label: "Mantodea", name: "mantodea" },
+            { label: "Neuroptera", name: "neuroptera" },
             { label: "Trichoptera", name: "trichoptera" },
         ]
     },

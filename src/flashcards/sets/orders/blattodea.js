@@ -1,7 +1,7 @@
 const array = [
     {
-        question: "What insects are in order blattodea?",
-        answer: "Cockroaches and termites",
+        question: "Which insect order contains cockroaches and termites?",
+        answer: "Blattodea",
     },
     {
         question: "What does blattodea mean?",
@@ -39,6 +39,11 @@ const array = [
     {
         question: "Do you usually find blattodea in dark or light places? (hint: think of the name meaning)",
         answer: "Dark",
+    },
+    {
+        question: "What type of mouthparts does blattodea have?",
+        answer: "Chewing",
+        image: "termite-mouthparts.jpg"
     },
 ];
 

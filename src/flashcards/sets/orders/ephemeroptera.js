@@ -1,7 +1,7 @@
 const array = [
     {
-        question: "What insects are in order ephemeroptera?",
-        answer: "Mayflies",
+        question: "Which insect order contains mayflies?",
+        answer: "Ephemeroptera",
     },
     {
         question: "What does ephemeroptera mean?",
@@ -35,6 +35,10 @@ const array = [
         question: "What species is this adult?",
         answer: "Light cahill (single black spot on wings)",
         image: "light-cahill-adult.jpg"
+    },
+    {
+        question: "What type of mouthparts does ephemeroptera have?",
+        answer: "None!",
     },
 ];
 
