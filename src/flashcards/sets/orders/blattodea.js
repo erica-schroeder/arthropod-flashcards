@@ -12,16 +12,6 @@ const array = [
         answer: "Gradual",
     },
     {
-        question: "What species is this?",
-        answer: "German cockroach\n(tan colored, two dark lines behind head)",
-        image: "german-cockroach.jpg"
-    },
-    {
-        question: "What species is this?",
-        answer: "American cockroach\n(reddish-brown, figure 8 behind head)",
-        image: "american-cockroach.jpg"
-    },
-    {
         question: "Which order is this insect in?",
         answer: "Blattodea (termite)",
         image: "termite.jpg"
@@ -44,6 +34,11 @@ const array = [
         question: "What type of mouthparts does blattodea have?",
         answer: "Chewing",
         image: "termite-mouthparts.jpg"
+    },
+    {
+        question: "What is a cockroach or termite egg case called?",
+        answer: "Ootheca",
+        image: "cockroach-ootheca.jpg"
     },
 ];
 

@@ -5,7 +5,7 @@ const array = [
     },
     {
         question: "What does neuroptera mean?",
-        answer: "Nerve-wing",
+        answer: "Veined-wing",
     },
     {
         question: "What type of metamorphosis does neuroptera undergo?",

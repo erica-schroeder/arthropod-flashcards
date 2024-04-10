@@ -39,6 +39,14 @@ const groups = [
         sets: [
             { label: "Metamorphosis", name: "metamorphosis" },
         ]
+    },
+    {
+        name: "species",
+        label: "Species",
+        folder: "2024-species",
+        sets: [
+            { label: "Identification", name: "identification" },
+        ]
     }
 ];
 
