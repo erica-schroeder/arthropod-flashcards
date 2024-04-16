@@ -14,8 +14,12 @@ const groups = [
             { label: "Ephemeroptera", name: "ephemeroptera" },
             { label: "Hemiptera", name: "hemiptera" },
             { label: "Hymenoptera", name: "hymenoptera" },
+            { label: "Lepidoptera", name: "lepidoptera" },
             { label: "Mantodea", name: "mantodea" },
+            { label: "Megaloptera", name: "megaloptera" },
             { label: "Neuroptera", name: "neuroptera" },
+            { label: "Odonata", name: "odonata" },
+            { label: "Orthoptera", name: "orthoptera" },
             { label: "Trichoptera", name: "trichoptera" },
         ]
     },
@@ -46,6 +50,7 @@ const groups = [
         folder: "2024-species",
         sets: [
             { label: "Identification", name: "identification" },
+            { label: "Conservation Status", name: "conservation-status" },
         ]
     }
 ];

@@ -75,11 +75,6 @@ const array = [
         image: "spring-fishfly-female.jpg"
     },
     {
-        question: "What is this species?\nIs it male or female?",
-        answer: "Spring fishfly\nFemale (antennae feathery on one side, pointed forward)",
-        image: "spring-fishfly-female.jpg"
-    },
-    {
         question: "What species is this larva?",
         answer: "Spotless antlion",
         image: "spotless-antlion-larva.jpg"
