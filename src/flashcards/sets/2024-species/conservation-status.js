@@ -81,7 +81,7 @@ const array = [
     },
     {
         question: "Cross orb weaver\n\nNative to Michigan?\nConservation status?",
-        answer: "Non-native\n\nInvasive",
+        answer: "Non-native\n\nNon-invasive",
     },
     {
         question: "Spiny water flea\n\nNative to Michigan?\nConservation status?",

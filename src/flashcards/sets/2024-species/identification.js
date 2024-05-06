@@ -149,6 +149,16 @@ const array = [
         answer: "Longtail tadpole shrimp",
         image: "longtail-tadpole-shrimp.jpg"
     },
+    {
+        question: "Which species built this web?",
+        answer: "Cross orb weaver",
+        image: "cross-orb-weaver-web.jpg"
+    },
+    {
+        question: "Which species built this web?",
+        answer: "Black and yellow garden spider",
+        image: "black-yellow-garden-spider-web.jpg"
+    },
 ];
 
 module.exports = array;

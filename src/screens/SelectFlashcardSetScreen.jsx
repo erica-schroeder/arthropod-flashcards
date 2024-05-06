@@ -51,6 +51,7 @@ const groups = [
         sets: [
             { label: "Identification", name: "identification" },
             { label: "Conservation Status", name: "conservation-status" },
+            { label: "Characteristics", name: "general-questions" },
         ]
     }
 ];
@@ -102,7 +103,7 @@ const SelectFlashcardSetScreen = () => {
 
 
     return (
-        <Stack display="flex" alignItems="center" spacing={5} mt={10}>
+        <Stack display="flex" alignItems="center" spacing={5} mt={10} mb={10}>
             <Typography level="h4" fontWeight="lg" fontSize={36}>
                 Select Flashcard Sets
             </Typography>
