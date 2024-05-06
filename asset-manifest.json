@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arthropod-flashcards/static/css/main.30eb9812.css",
-    "main.js": "/arthropod-flashcards/static/js/main.20f8ed6b.js",
+    "main.js": "/arthropod-flashcards/static/js/main.5681717e.js",
     "static/js/453.e13f9e01.chunk.js": "/arthropod-flashcards/static/js/453.e13f9e01.chunk.js",
     "static/media/lacewing.jpg": "/arthropod-flashcards/static/media/lacewing.0ff4939867a6b07cc000.jpg",
     "static/media/bee.jpg": "/arthropod-flashcards/static/media/bee.06a48bf731d998b5d5a7.jpg",
@@ -12,6 +12,7 @@
     "static/media/scutellum.png": "/arthropod-flashcards/static/media/scutellum.99698768af2a9957af06.png",
     "static/media/black-and-yellow-garden-spider.jpg": "/arthropod-flashcards/static/media/black-and-yellow-garden-spider.cfa7fc6247baf7caa1d8.jpg",
     "static/media/mantidfly.jpg": "/arthropod-flashcards/static/media/mantidfly.f46d971b5b6f2ce33dcb.jpg",
+    "static/media/black-yellow-garden-spider-web.jpg": "/arthropod-flashcards/static/media/black-yellow-garden-spider-web.16628810280351fb21e0.jpg",
     "static/media/dobsonfly-mouthparts.png": "/arthropod-flashcards/static/media/dobsonfly-mouthparts.7f99e080bba7f0d72643.png",
     "static/media/halteres.png": "/arthropod-flashcards/static/media/halteres.602c6545efe7970f8158.png",
     "static/media/elytra.jpg": "/arthropod-flashcards/static/media/elytra.83024084984b41efcb25.jpg",
@@ -39,9 +40,11 @@
     "static/media/dobsonfly.jpg": "/arthropod-flashcards/static/media/dobsonfly.26cd6bb7aec774526772.jpg",
     "static/media/eastern-harvestman.jpg": "/arthropod-flashcards/static/media/eastern-harvestman.fb1b3f3a1f575b6bc164.jpg",
     "static/media/lone-star-tick-female.jpg": "/arthropod-flashcards/static/media/lone-star-tick-female.8ecf3d2a0f769dfcc451.jpg",
+    "static/media/goldenrod-crab-spider-camouflage.jpg": "/arthropod-flashcards/static/media/goldenrod-crab-spider-camouflage.e73ba29fd3695956f189.jpg",
     "static/media/beetle-mouthparts.jpg": "/arthropod-flashcards/static/media/beetle-mouthparts.8ef7c282246d200ced4e.jpg",
     "static/media/katydid.jpg": "/arthropod-flashcards/static/media/katydid.7b586b42712ad4c6c704.jpg",
     "static/media/gradual-metamorphosis.jpg": "/arthropod-flashcards/static/media/gradual-metamorphosis.290a7087da38010a95db.jpg",
+    "static/media/cross-orb-weaver-web.jpg": "/arthropod-flashcards/static/media/cross-orb-weaver-web.2d2f397f376429196b05.jpg",
     "static/media/chinese-mantis.jpg": "/arthropod-flashcards/static/media/chinese-mantis.2c13417a204fbd5fcebe.jpg",
     "static/media/pillbug.jpg": "/arthropod-flashcards/static/media/pillbug.81411ff0d9c0ec91dc79.jpg",
     "static/media/complete-metamorphosis.jpg": "/arthropod-flashcards/static/media/complete-metamorphosis.842bd16094ff50cc827e.jpg",
@@ -101,16 +104,17 @@
     "static/media/eastern-dobsonfly-female.jpg": "/arthropod-flashcards/static/media/eastern-dobsonfly-female.64b3ece07cdd5af6f46c.jpg",
     "static/media/mosquito-mouthparts.jpg": "/arthropod-flashcards/static/media/mosquito-mouthparts.b3d4420a7d2890e31aa3.jpg",
     "static/media/termite.jpg": "/arthropod-flashcards/static/media/termite.8d9354a14efd285c5229.jpg",
+    "static/media/brown-wasp-mantidfly-mimicry.jpg": "/arthropod-flashcards/static/media/brown-wasp-mantidfly-mimicry.357f7c0fcfdb19d85553.jpg",
     "static/media/lone-star-tick.jpg": "/arthropod-flashcards/static/media/lone-star-tick.c65a3dd2976e105cd846.jpg",
     "static/media/katydid-mouthparts.jpg": "/arthropod-flashcards/static/media/katydid-mouthparts.e080fa44585bec72eb92.jpg",
     "static/media/beetle.jpg": "/arthropod-flashcards/static/media/beetle.5dc9b1daeb1da4195dac.jpg",
     "index.html": "/arthropod-flashcards/index.html",
     "main.30eb9812.css.map": "/arthropod-flashcards/static/css/main.30eb9812.css.map",
-    "main.20f8ed6b.js.map": "/arthropod-flashcards/static/js/main.20f8ed6b.js.map",
+    "main.5681717e.js.map": "/arthropod-flashcards/static/js/main.5681717e.js.map",
     "453.e13f9e01.chunk.js.map": "/arthropod-flashcards/static/js/453.e13f9e01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30eb9812.css",
-    "static/js/main.20f8ed6b.js"
+    "static/js/main.5681717e.js"
   ]
 }
