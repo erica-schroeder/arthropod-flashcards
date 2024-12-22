@@ -48,7 +48,7 @@ const array = [
         answer: "Native\n\nLeast concern",
     },
     {
-        question: "Diamond northern\n\nNative to Michigan?\nConservation status?",
+        question: "Diamond northern caddisfly\n\nNative to Michigan?\nConservation status?",
         answer: "Native\n\nLeast concern",
     },
     {

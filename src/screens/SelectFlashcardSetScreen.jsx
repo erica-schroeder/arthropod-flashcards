@@ -47,11 +47,11 @@ const groups = [
     {
         name: "species",
         label: "Species",
-        folder: "2024-species",
+        folder: "2025-species",
         sets: [
             { label: "Identification", name: "identification" },
-            { label: "Conservation Status", name: "conservation-status" },
-            { label: "Characteristics", name: "general-questions" },
+            //{ label: "Conservation Status", name: "conservation-status" },
+            //{ label: "Characteristics", name: "general-questions" },
         ]
     }
 ];
