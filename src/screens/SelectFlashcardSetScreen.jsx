@@ -20,7 +20,7 @@ const groups = [
             { label: "Neuroptera", name: "neuroptera" },
             { label: "Odonata", name: "odonata" },
             { label: "Orthoptera", name: "orthoptera" },
-            { label: "Trichoptera", name: "trichoptera" },
+            //{ label: "Trichoptera", name: "trichoptera" },
         ]
     },
     {
@@ -42,6 +42,7 @@ const groups = [
         folder: "general",
         sets: [
             { label: "Metamorphosis", name: "metamorphosis" },
+            { label: "Defense Mechanisms", name: "defense-mechanisms" },
         ]
     },
     {
